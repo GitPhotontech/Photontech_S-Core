@@ -1,5 +1,4 @@
 /* PHOTONTECH */
-
 /*
   S-Core Blink Uygulaması
   
