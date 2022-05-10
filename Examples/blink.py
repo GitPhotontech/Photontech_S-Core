@@ -1,3 +1,16 @@
+/* PHOTONTECH */
+
+/*
+  S-Core Blink Uygulaması
+  
+  S-Core üzerindeki 25. pine bağlı led 1 saniye arayla yakılıp söndürülür. 
+   
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
+  
+  https://github.com/GitPhotontech/Photontech_S-Core
+  
+*/
+
 from machine import Pin, Timer	#Pico için pinler ve Timer kütüphaneleri dahil edildi
 led = Pin(25, Pin.OUT)		#25. pin çıkış pini olarak ayarlandı
 timer = Timer()			#Timer fonksiyonu timer değişkenine atandı
