@@ -7,7 +7,7 @@ PHOTONTECH
    
   Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
   
-  https://github.com/GitPhotontech/Photontech_S-Core
+  https://github.com/GitPhotontech/Photontech_S-Core/tree/main/Example_MicroPython
   
 """
 
