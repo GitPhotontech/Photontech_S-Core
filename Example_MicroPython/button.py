@@ -8,7 +8,7 @@ PHOTONTECH
    
   Bu örnek kod micropython ile yazılarak PHOTONTECH tarafından kamuya sunulmuştur.
   
-  https://github.com/GitPhotontech/Photontech_S-Core/tree/main/Example_MicroPython
+  https://github.com/GitPhotontech/Photontech_S-Core
   
 """
 
