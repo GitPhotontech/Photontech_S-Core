@@ -6,7 +6,7 @@ PHOTONTECH
    
   Bu örnek kod C++ ile yazılarak PHOTONTECH tarafından kamuya sunulmuştur.
   
-  https://github.com/GitPhotontech/Photontech_S-Core/tree/main/Example_MicroPython
+  https://github.com/GitPhotontech/Photontech_S-Core
   
 */
 #define potpin 28 //Potansiyometreyi 28. pine tanımladık.
