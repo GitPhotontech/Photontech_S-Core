@@ -5,7 +5,7 @@ PHOTONTECH
   
   S-Core üzerindeki 25. pine bağlı led 1 saniye arayla yakılıp söndürülür. 
    
-  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
+  Bu örnek kod micropython ile yazılarak PHOTONTECH tarafından kamuya sunulmuştur.
   
   https://github.com/GitPhotontech/Photontech_S-Core/tree/main/Example_MicroPython
   
